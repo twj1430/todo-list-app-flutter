@@ -15,4 +15,4 @@ A simple yet powerful **To-Do List App** built with **Flutter** and **Provider**
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/YOUR_USERNAME/flutter-todo-app.git](https://github.com/twj1430/todo-list-app-flutter.git)
+   git clone https://github.com/twj1430/todo-list-app-flutter.git
