@@ -10,7 +10,7 @@ A simple yet powerful **To-Do List App** built with **Flutter** and **Provider**
 ✅ Adaptive UI with Navigation Drawer  
 
 ## Screenshots
-![Screenshot](assets/screenshots/to-do-app-homepage.png)
+<img src="assets/screenshots/screenshot.png" alt="Screenshot" width="300">
 
 ## Installation
 1. Clone the repository:
