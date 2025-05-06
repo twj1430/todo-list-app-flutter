@@ -1,6 +1,6 @@
 # Flutter To-Do List App
 
-A simple yet powerful **To-Do List App** built with **Flutter** and **Provider** for state management.
+A simple yet powerful **To-Do List App** built with **Flutter** and **Provider** for state management. Ver2
 
 ## Features
 ✅ Add tasks  
